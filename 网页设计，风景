@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>中国景点</title>
+		<style type="text/css">
+            h1{
+                text-align:center;
+                color:red
+            }
+            h2{
+                color:red
+            }
+            hr{ 
+                border-bottom: 3px solid red;
+            }
+			img{
+				width:150px;
+				height:150px;
+			}
+			li{
+				display: inline-block;
+			}
+			h4{
+				text-align:center;
+				margin-top:5px;
+			}
+		</style>
+	</head>
+	<body>
+        <h1>
+            中国旅游景点欣赏
+        </h1>
+        <hr>
+        <h2>
+            万里长城，桂林山水，北京故宫，杭州西湖，苏州园林，安徽黄山，长江三峡，台湾日月潭，承德避暑山庄，西安秦兵马俑等旅游景点坐落于祖国的东南西北各个地区，包括自然景观，历史建筑，人文景观和文物古迹等
+        </h2>
+		<ul>
+			<li>
+				<img src="c:\Users\Administrator\Desktop\image-3-1-bmy.jpg">
+                <h4>兵马俑</h4>
+			</li>
+            <li>
+                <img src="c:\Users\Administrator\Desktop\image-3-1-hzxh.jpg">
+                <h4>日月潭</h4>
+            </li>
+            <li>
+                <img src="c:\Users\Administrator\Desktop\image-3-1-ahhs.jpg">
+                <h4>庐山</h4>
+            </li>
+                <li>
+                    <img src="c:\Users\Administrator\Desktop\image-3-1-cjsx.jpg">
+                    <h4>长江三峡</h4>
+                </li>
+                <li>
+                    <img src="c:\Users\Administrator\Desktop\image-3-1-bjgg.jpg">
+                    <h4>北京故宫</h4>
+                </li>
+                <li>
+                    <img src="c:\Users\Administrator\Desktop\image-3-1-szyl.jpg">
+                    <h4>苏州园林</h4>
+                </li>
+                <li>
+                    <img src="c:\Users\Administrator\Desktop\image-3-1-wlcc.jpg">
+                    <h4>万里长城</h4>
+                </li>
+                <li>
+                    <img src="c:\Users\Administrator\Desktop\image-3-1-hzxh.jpg">
+                    <h4>杭州西湖</h4>
+                </li>
+                <li>
+                    <img src="c:\Users\Administrator\Desktop\image-3-1-ahhs.jpg">
+                    <h4>安徽黄山</h4>
+                    </li>
+                    <li>
+                        <img src="c:\Users\Administrator\Desktop\image-3-1-bssz.jpg">
+                        <h4>避暑山庄</h4>
+                    </li>
+		</ul>
+	</body>
+</html>
